@@ -1,6 +1,6 @@
 # Firmware del monitor de motor
 
-El equipo (ESP32-S3) consulta este repositorio para actualizarse solo.
+El equipo (ESP32-S3) consulta este repositorio cuando se le pide (botón de la pantalla, orden MQTT ACTUALIZAR o monitor serie). Desde la 2.2.0 nunca se actualiza solo.
 
 | Archivo | Qué es |
 |---|---|
